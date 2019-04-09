@@ -1,0 +1,10 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\bin\Debug\Salario.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\bin\Debug\Salario.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\bin\Debug\Salario.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.mostrar.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Salario\Salario\obj\Debug\Salario.pdb
